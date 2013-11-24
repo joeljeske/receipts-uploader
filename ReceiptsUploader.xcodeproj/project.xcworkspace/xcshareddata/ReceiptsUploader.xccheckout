@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>50D78BDF-4043-48C8-A764-D6639B31A13D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReceiptsUploader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFBCE05A-07CD-4B9B-8A7F-3D3CC72B010A</key>
+		<string>https://bitbucket.org/joeljeske/receipts-uploader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReceiptsUploader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFBCE05A-07CD-4B9B-8A7F-3D3CC72B010A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/joeljeske/receipts-uploader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFBCE05A-07CD-4B9B-8A7F-3D3CC72B010A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFBCE05A-07CD-4B9B-8A7F-3D3CC72B010A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>receipts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
